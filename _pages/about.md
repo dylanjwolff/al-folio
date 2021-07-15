@@ -8,17 +8,22 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>15 Manet Circle</p>
+    <p>Newton, MA 02467</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a graduate student at ETH Zurich pursuing a masters in
+Computer Science with a focus in Information Security. Specifically I am
+interested in leveraging static and dynamic program analysis (as well as
+verification) techniques to find and prevent bugs in software. Before starting
+my masters, I worked at Mathworks on a variety of projects, mostly involving
+testing and deployment infrastructure for web applications.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I'm also a recovering ultimate frisbee addict, after 12 years of
+competitive play, starting in high school. In that time I've played in two
+different semi-professional leagues and also won a world championship in 2013
+with team USA in Toronto.
