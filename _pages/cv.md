@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 layout: default
 title: cv
 permalink: /cv/
@@ -11,14 +12,26 @@ Ph.D. in Computer Science (In Progress)
 
 ##### ETH Zurich
 M.S. in Computer Science with a Concentration in Information Security (2020)
+=======
+layout: page
+title: CV
+permalink: /cv/
+nav: true
+---
+---
+## EDUCATION
+---
+##### ETH Zurich
+Masters in Computer Science with a Concentration in Information Security (2020)
+>>>>>>> e1252b0 (more cleanup)
 
 **Thesis:** *Value Mutation Testing for SMT Solvers*
 
 ##### Boston College
-B.S. in Computer Science, Minor in Math (2015, *magna cum laude*, Honors Program)
+Honors Program - B.S. in Computer Science, Minor in Math (2015, *magna cum laude*)
 
 ###### **Awards**
-* John J. Neuhauser Award for most outstanding achievement in Computer Science (2015)
+* John J. Neuhauser Award for most outstanding acheivement in Computer Science (2015)
 * [Dean's Scholar](https://www.bc.edu/bc-web/schools/mcas/departments/political-science/undergraduate/awards-fellowships.html#deans_scholars)
 (2014) and [Sophomore Scholar](https://www.bc.edu/bc-web/schools/mcas/departments/political-science/undergraduate/awards-fellowships.html#sophomore_scholars)
 (2013)
