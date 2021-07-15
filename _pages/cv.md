@@ -1,19 +1,18 @@
 ---
-layout: page
-title: CV
+layout: default
+title: cv
 permalink: /cv/
 nav: true
----
 ---
 ## EDUCATION
 ---
 ##### ETH Zurich
-Masters in Computer Science with a Concentration in Information Security (2020)
+M.S. in Computer Science with a Concentration in Information Security (2020)
 
 **Thesis:** *Value Mutation Testing for SMT Solvers*
 
 ##### Boston College
-Honors Program - B.S. in Computer Science, Minor in Math (2015, *magna cum laude*)
+B.S. in Computer Science, Minor in Math (2015, *magna cum laude*, Honors Program)
 
 ###### **Awards**
 * John J. Neuhauser Award for most outstanding acheivement in Computer Science (2015)
