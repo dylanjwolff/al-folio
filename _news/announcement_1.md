@@ -1,7 +1,6 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
-inline: true
+date: Thu Jul 15 02:44:30 PM EDT 2021
 ---
 
-A simple inline announcement.
+I'm excited to report that I will be beginning my PhD at NUS in Singapore this August! Stay tuned for more details!
