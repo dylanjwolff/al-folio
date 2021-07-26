@@ -1,6 +1,4 @@
 ---
-<<<<<<< HEAD
-<<<<<<< HEAD
 layout: default
 title: cv
 permalink: /cv/
@@ -11,20 +9,6 @@ nav: true
 ##### National University of Singapore
 Ph.D. in Computer Science (In Progress)
 
-##### ETH Zurich
-M.S. in Computer Science with a Concentration in Information Security (2020)
-=======
-layout: page
-title: CV
-=======
-layout: default
-title: cv
->>>>>>> 33ac8a6 (fixing cv)
-permalink: /cv/
-nav: true
----
-## EDUCATION
----
 ##### ETH Zurich
 M.S. in Computer Science with a Concentration in Information Security (2020)
 
