@@ -6,6 +6,9 @@ nav: true
 ---
 ## EDUCATION
 ---
+##### National University of Singapore
+Ph.D. in Computer Science (In Progress)
+
 ##### ETH Zurich
 M.S. in Computer Science with a Concentration in Information Security (2020)
 
