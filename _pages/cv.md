@@ -18,7 +18,7 @@ M.S. in Computer Science with a Concentration in Information Security (2020)
 B.S. in Computer Science, Minor in Math (2015, *magna cum laude*, Honors Program)
 
 ###### **Awards**
-* John J. Neuhauser Award for most outstanding acheivement in Computer Science (2015)
+* John J. Neuhauser Award for most outstanding achievement in Computer Science (2015)
 * [Dean's Scholar](https://www.bc.edu/bc-web/schools/mcas/departments/political-science/undergraduate/awards-fellowships.html#deans_scholars)
 (2014) and [Sophomore Scholar](https://www.bc.edu/bc-web/schools/mcas/departments/political-science/undergraduate/awards-fellowships.html#sophomore_scholars)
 (2013)
